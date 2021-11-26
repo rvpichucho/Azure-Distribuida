@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'Apiwebdistribuida'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A864F79E8714496DAD47698B94107C83 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_544F380928A14A68828B75A633C33C9A }}
           package: .
